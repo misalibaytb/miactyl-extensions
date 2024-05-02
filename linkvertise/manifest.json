@@ -1,0 +1,13 @@
+{
+	"repo": "misalibaytb/miactyl-extensions/main/linkvertise_earn",
+	"name": "status",
+	"description": "A simple extensions to earn money from linkvertise",
+	"version": "1.0.0",
+	"author": "misalibaytb",
+	"mapings": {
+		"handlers": "handlers",
+		"mitigations": "mitigations",
+		"ui": "ui",
+		"api": "api"
+	}
+}
